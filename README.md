@@ -12,6 +12,8 @@ In this example we present:
 
 
 Final Dash:
+
 ![alt text](img/img1.png)
+.
 
 
