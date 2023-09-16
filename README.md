@@ -2,7 +2,7 @@
 
 This is an example of how to build a dashboard using some components present on Dash library (Plotly company).
 
-In this example presents:
+In this example we present:
 - Data analysis using Pandas
 - Plot of figures using Plotly to verify the data integrity and disposal
 - Jupyter notebook to evaluate the results
@@ -10,8 +10,8 @@ In this example presents:
 - Dash Callbacks
 - Dash deployment
 
-Final Dash:
 
+Final Dash:
 ![alt text](img/img1.png)
 
 
